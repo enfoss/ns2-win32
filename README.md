@@ -14,7 +14,7 @@ Features :
 
 Note : All Copyrights exist with the respective owners of these free software packages included. All Rights Reserved.
 
-#################  We invite developers to assist in compilation of ns2.31 ans ns2.35 for windows since the cygwin versions are quite heavy and difficult to install.##################
+### We invite developers to assist in compilation of ns2.31 ans ns2.35 for windows since the cygwin versions are quite heavy and difficult to install.###
 
 Queries : Write to - sonal(at)enfoss(dot)org
 
