@@ -16,7 +16,4 @@ Note : All Copyrights exist with the respective owners of these free software pa
 
 ### We invite developers to assist in compilation of ns2.31 and ns2.35 for windows since the cygwin versions are quite heavy and difficult to install.###
 
-Queries : Write to - sonal(at)enfoss(dot)org
-
-
-  - enFOSS, India
+Queries : Write to - sonal@enfoss.org
